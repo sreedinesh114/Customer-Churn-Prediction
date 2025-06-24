@@ -72,14 +72,3 @@ weighted avg       0.77      0.78      0.77      1407
 
 ✔️ Feature Importance Plot
 
-
----
-
-🚀 Next Step (Optional)
-
-Would you like me to:
-- Add this `README.md` directly to your project as a file?
-- Help generate a **Streamlit UI** for this?
-- Or help you make a GitHub portfolio to showcase your projects?
-
-Let me know — you're building an impressive Data Science profile!
